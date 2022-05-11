@@ -4,3 +4,6 @@ Carlos nota 2
 
 Henrique nota 3
 
+Clara nota 4
+
+Ana nota 5
